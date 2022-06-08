@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "859986109896",
+    "firebase_url": "https://andolana-e24d2.firebaseio.com",
+    "project_id": "andolana-e24d2",
+    "storage_bucket": "andolana-e24d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859986109896:android:b90facaacf4bb803284cfd",
+        "android_client_info": {
+          "package_name": "andolana.android.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859986109896-4eietpl477p9uacgtrkrtj3n0ng9t71p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "andolana.android.com",
+            "certificate_hash": "116797d79e032b47baafce4db8e8422a13d9cf18"
+          }
+        },
+        {
+          "client_id": "859986109896-gqs9cijr7o5e24tvqs35bgo0t6i2o832.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bqFMC4ZvokkWQAiqiRa_AbZkOQ44lrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859986109896-gqs9cijr7o5e24tvqs35bgo0t6i2o832.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
